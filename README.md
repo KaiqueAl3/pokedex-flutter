@@ -16,25 +16,20 @@
 
 ## 📱 Prints da Aplicação
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>Home / Lista</b></td>
-    <td align="center"><b>Detalhe do Pokémon</b></td>
-    <td align="center"><b>Favoritos (Firebase)</b></td>
-    <td align="center"><b>Filtro por Tipo</b></td>
-  </tr>
-  <tr>
-    <td><img src="<img width="773" height="1280" alt="01_home" src="https://github.com/user-attachments/assets/bbd4d5a0-a11d-400d-898d-707474a2e9a9" />
-" width="180"/></td>
-    <td><img src="screenshots/02_detail.png" width="180"/></td>
-    <td><img src="screenshots/03_favorites.png" width="180"/></td>
-    <td><img src="screenshots/04_filter.png" width="180"/></td>
-  </tr>
-</table>
-</div>
+HOME
+<img width="773" height="1280" alt="01_home" src="https://github.com/user-attachments/assets/bfe4f18e-55af-428c-bad1-f0da5852ba40" />
 
----
+DETALHES
+<img width="784" height="1280" alt="02_detail" src="https://github.com/user-attachments/assets/af7084ac-661c-40f4-b012-f91aa36c41d0" />
+
+FAVORITOS
+<img width="775" height="1280" alt="03_favorites" src="https://github.com/user-attachments/assets/75b49c5b-d2ef-4c20-af36-7c3362ead7ea" />
+
+FILTRO
+<img width="770" height="1280" alt="04_filter" src="https://github.com/user-attachments/assets/2f8187a5-f268-4080-8e23-71f9e179699e" />
+
+
+
 
 ## 📐 Arquitetura da Aplicação
 
