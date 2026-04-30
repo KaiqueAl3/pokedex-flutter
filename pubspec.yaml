@@ -1,0 +1,57 @@
+name: pokedex_flutter
+description: Uma Pokédex moderna feita com Flutter, consumindo a PokéAPI e integrada ao Firebase.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # HTTP
+  http: ^1.2.1
+  dio: ^5.4.3+1
+
+  # Firebase
+  firebase_core: ^3.3.0
+  cloud_firestore: ^5.2.1
+  firebase_analytics: ^11.2.1
+
+  # State Management
+  provider: ^6.1.2
+
+  # UI / UX
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  animations: ^2.0.11
+  flutter_staggered_animations: ^1.1.1
+  palette_generator: ^0.3.3+3
+  google_fonts: ^6.2.1
+  lottie: ^3.1.2
+  flutter_svg: ^2.0.10+1
+
+  # Utils
+  shared_preferences: ^2.2.3
+  connectivity_plus: ^6.0.3
+  url_launcher: ^6.3.0
+  intl: ^0.19.0
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/pokeball.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
