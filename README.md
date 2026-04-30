@@ -214,5 +214,5 @@ firestore/
 
 ## 👨‍💻 Autor
  
-**Kaique** 
+**Kaique Alencar Braga Silva** 
 
