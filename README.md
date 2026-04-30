@@ -25,7 +25,8 @@
     <td align="center"><b>Filtro por Tipo</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/01_home.png" width="180"/></td>
+    <td><img src="<img width="773" height="1280" alt="01_home" src="https://github.com/user-attachments/assets/bbd4d5a0-a11d-400d-898d-707474a2e9a9" />
+" width="180"/></td>
     <td><img src="screenshots/02_detail.png" width="180"/></td>
     <td><img src="screenshots/03_favorites.png" width="180"/></td>
     <td><img src="screenshots/04_filter.png" width="180"/></td>
