@@ -311,15 +311,6 @@ firestore/
 ---
 
 ## 👨‍💻 Autor
+ 
+**Kaique** 
 
-Desenvolvido para a disciplina de **Desenvolvimento Mobile** — UNIFACEF  
-**Kaique** | Franca, SP
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja [LICENSE](LICENSE) para mais detalhes.
-
-> Pokémon e todos os nomes relacionados são marcas registradas da Nintendo/Game Freak.  
-> Dados fornecidos pela [PokéAPI](https://pokeapi.co/) (gratuita e open-source).
